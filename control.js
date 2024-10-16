@@ -1,7 +1,7 @@
 const lamp=document.querySelector(".but1");
 let estado = false
 let datos
-const url = 'http://192.168.118.175:3000/datos';
+const url = 'https://fssrxrr0-3000.usw3.devtunnels.ms//datos';
 
 
 lamp.addEventListener("click",function(){
